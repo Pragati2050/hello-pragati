@@ -1,6 +1,6 @@
 import React from "react";
 
-function Person({ Person }) {
+function Person({ person }) {
   return (
     <div>
       <h2>
